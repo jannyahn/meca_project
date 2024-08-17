@@ -7,7 +7,7 @@ const words = [
         number: 754,
         origin: "어원: 그리스어 'anatomia' (해부, 분해)",
         synonym: "dissection, structure, physiology",
-        audio: "audio/Anatomy.mp3"
+        audio: "/audio/Anatomy.mp3"
     },
     {
         name: "antibody",
