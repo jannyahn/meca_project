@@ -7,7 +7,7 @@ const words = [
         number: 754,
         origin: "어원: 그리스어 'anatomia' (해부, 분해)",
         synonym: "dissection, structure, physiology",
-        audio: "/audio/Anatomy.mp3"
+        audio: "/audio/anatomy.mp3"
     },
     {
         name: "antibody",
@@ -15,7 +15,7 @@ const words = [
         number: 420,
         origin: "어원: 'anti-' (대항하여) + 'body' (체)",
         synonym: "immunoglobulin",
-        audio: "audio/Antibody.mp3"
+        audio: "audio/antibody.mp3"
     },
     {
         name: "appendix",
@@ -23,7 +23,7 @@ const words = [
         number: 695,
         origin: "어원: 라틴어 'appendix' (부가물)",
         synonym: "vermiform appendix",
-        audio: "audio/Appendix.mp3"
+        audio: "audio/appendix.mp3"
     },
     {
         name: "asthma",
@@ -31,7 +31,7 @@ const words = [
         number: 114,
         origin: "어원: 그리스어 'asthma' (숨 가쁨)",
         synonym: "respiratory condition, bronchial disorder",
-        audio: "audio/Asthma.mp3"
+        audio: "audio/asthma.mp3"
     },
     {
         name: "bacteria",
@@ -39,7 +39,7 @@ const words = [
         number: 189,
         origin: "어원: 그리스어 'bakterion' (작은 막대기)",
         synonym: "germs, microbes, pathogens",
-        audio: "audio/Bacteria.mp3"
+        audio: "audio/bacteria.mp3"
     },
     {
         name: "belly",
@@ -47,7 +47,7 @@ const words = [
         number: 197,
         origin: "어원: 고대 영어 'belig' (주머니)",
         synonym: "stomach, abdomen, gut",
-        audio: "audio/Belly.mp3"
+        audio: "audio/belly.mp3"
     },
     {
         name: "cognitive",
@@ -55,7 +55,7 @@ const words = [
         number: 707,
         origin: "어원: 라틴어 'cognitio' (알다, 인식하다)",
         synonym: "mental, intellectual, perceptual",
-        audio: "audio/Cognitive.mp3"
+        audio: "audio/cognitive.mp3"
     },
     {
         name: "contagious",
@@ -63,7 +63,7 @@ const words = [
         number: 1388,
         origin: "어원: 라틴어 'contagiosus' (접촉을 통해 전달되는)",
         synonym: "infectious, transmissible",
-        audio: "audio/Contagious.mp3"
+        audio: "audio/contagious.mp3"
     },
     {
         name: "diabetes",
@@ -71,7 +71,7 @@ const words = [
         number: 262,
         origin: "어원: 그리스어 'diabetes' (지나가다, 관통하다)",
         synonym: "blood sugar disorder, hyperglycemia",
-        audio: "audio/Diabetes.mp3"
+        audio: "audio/diabetes.mp3"
     },
     {
         name: "digest",
@@ -79,7 +79,7 @@ const words = [
         number: 119,
         origin: "어원: 라틴어 'digestus' (분류하다, 정리하다)",
         synonym: "absorb, break down, assimilate",
-        audio: "audio/Digest.mp3"
+        audio: "audio/digest.mp3"
     },
     {
         name: "disorder",
@@ -87,7 +87,7 @@ const words = [
         number: 1239,
         origin: "어원: 라틴어 'dis-' (분리) + 'ordo' (질서)",
         synonym: "illness, disease, disruption",
-        audio: "audio/Disorder.mp3"
+        audio: "audio/disorder.mp3"
     },
     {
         name: "dose",
@@ -95,7 +95,7 @@ const words = [
         number: 203,
         origin: "어원: 그리스어 'dosis' (주기, 배분)",
         synonym: "portion, amount, quantity",
-        audio: "audio/Dose.mp3"
+        audio: "audio/dose.mp3"
     },
     {
         name: "embryo",
@@ -103,7 +103,7 @@ const words = [
         number: 977,
         origin: "어원: 그리스어 'embryon' (미숙아, 배아)",
         synonym: "fetus, zygote",
-        audio: "audio/Embryo.mp3"
+        audio: "audio/embryo.mp3"
     },
     {
         name: "epidemic",
@@ -111,7 +111,7 @@ const words = [
         number: 622,
         origin: "어원: 그리스어 'epidemia' (전염병의)",
         synonym: "outbreak, plague, widespread occurrence",
-        audio: "audio/Epidemic.mp3"
+        audio: "audio/epidemic.mp3"
     },
     {
         name: "fatal",
@@ -119,7 +119,7 @@ const words = [
         number: 1243,
         origin: "어원: 라틴어 'fatalis' (운명의)",
         synonym: "lethal, deadly, mortal",
-        audio: "audio/Fatal.mp3"
+        audio: "audio/fatal.mp3"
     },
     {
         name: "gene",
@@ -127,14 +127,14 @@ const words = [
         number: 39,
         origin: "어원: 그리스어 'genos' (태생, 기원)",
         synonym: "genetic material, hereditary unit",
-        audio: "audio/Gene.mp3"
+        audio: "audio/gene.mp3"
     },
    { name: "germ",
     meaning: "세균, 미생물",
     number: 652,
     origin: "어원: 라틴어 'germen' (싹, 발아)",
     synonym: "microbe, bacterium, pathogen",
-    audio: "audio/Germ.mp3"
+    audio: "audio/germ.mp3"
 },
 {
     name: "heredity",
@@ -142,7 +142,7 @@ const words = [
     number: 1189,
     origin: "어원: 라틴어 'hereditas' (상속)",
     synonym: "inheritance, genetics",
-    audio: "audio/Heredity.mp3"
+    audio: "audio/heredity.mp3"
 },
 {
     name: "illness",
@@ -150,7 +150,7 @@ const words = [
     number: 492,
     origin: "어원: 고대 영어 'ill' (악, 병) + '-ness' (명사형 접미사)",
     synonym: "sickness, disease, ailment",
-    audio: "audio/Illness.mp3"
+    audio: "audio/illness.mp3"
 },
 
     {
@@ -159,7 +159,7 @@ const words = [
         number: 147,
         origin: "어원: 라틴어 'immunis' (세금 면제된)",
         synonym: "resistant, protected, exempt",
-        audio: "audio/Immune.mp3"
+        audio: "audio/immune.mp3"
     },
     {
         name: "inborn",
@@ -167,7 +167,7 @@ const words = [
         number: 169,
         origin: "어원: 고대 영어 'inn' (안에) + 'boren' (태어난)",
         synonym: "innate, natural, inherent",
-        audio: "audio/Inborn.mp3"
+        audio: "audio/inborn.mp3"
     },
     {
         name: "infectious",
@@ -175,7 +175,7 @@ const words = [
         number: 1336,
         origin: "어원: 라틴어 'infectio' (감염)",
         synonym: "contagious, transmissible, communicable",
-        audio: "audio/Infectious.mp3"
+        audio: "audio/infectious.mp3"
     },
     {
         name: "ingest",
@@ -183,7 +183,7 @@ const words = [
         number: 629,
         origin: "어원: 라틴어 'ingestus' (섭취하다)",
         synonym: "consume, swallow, absorb",
-        audio: "audio/Ingest.mp3"
+        audio: "audio/ingest.mp3"
     },
     {
         name: "inhale",
@@ -191,7 +191,7 @@ const words = [
         number: 209,
         origin: "어원: 라틴어 'in-' (안으로) + 'halare' (숨을 내쉬다)",
         synonym: "breathe in, inhale deeply",
-        audio: "audio/Inhale.mp3"
+        audio: "audio/inhale.mp3"
     },
     {
         name: "inherit",
@@ -199,7 +199,7 @@ const words = [
         number: 714,
         origin: "어원: 라틴어 'hereditare' (상속하다)",
         synonym: "receive, bequeath, pass on",
-        audio: "audio/Inherit.mp3"
+        audio: "audio/inherit.mp3"
     },
 
     {
@@ -208,7 +208,7 @@ const words = [
         number: 406,
         origin: "어원: 라틴어 'medicatio' (치료)",
         synonym: "medicine, drug, pharmaceutical",
-        audio: "audio/Medication.mp3"
+        audio: "audio/medication.mp3"
     },
     {
         name: "metabolism",
@@ -216,7 +216,7 @@ const words = [
         number: 402,
         origin: "어원: 그리스어 'metabole' (변화)",
         synonym: "biotransformation, metabolic process",
-        audio: "audio/Metabolism.mp3"
+        audio: "audio/metabolism.mp3"
     },
     {
         name: "microbe",
@@ -224,7 +224,7 @@ const words = [
         number: 237,
         origin: "어원: 그리스어 'mikros' (작은) + 'bios' (생명)",
         synonym: "microorganism, bacterium, germ",
-        audio: "audio/Microbe.mp3"
+        audio: "audio/microbe.mp3"
     },
     {
         name: "nerve",
@@ -232,7 +232,7 @@ const words = [
         number: 959,
         origin: "어원: 라틴어 'nervus' (힘줄, 신경)",
         synonym: "neural tissue, anxiety, courage",
-        audio: "audio/Nerve.mp3"
+        audio: "audio/nerve.mp3"
     },
     {
         name: "operate",
@@ -240,7 +240,7 @@ const words = [
         number: 391,
         origin: "어원: 라틴어 'operari' (일하다)",
         synonym: "perform surgery, conduct an operation",
-        audio: "audio/Operate.mp3"
+        audio: "audio/operate.mp3"
     },
     {
         name: "optical",
@@ -248,7 +248,7 @@ const words = [
         number: 973,
         origin: "어원: 그리스어 'optikos' (시각의)",
         synonym: "visual, ocular, sight-related",
-        audio: "audio/Optical.mp3"
+        audio: "audio/optical.mp3"
     },
     {
         name: "organism",
@@ -256,7 +256,7 @@ const words = [
         number: 563,
         origin: "어원: 그리스어 'organon' (도구, 장기)",
         synonym: "living being, creature, life form",
-        audio: "audio/Organism.mp3"
+        audio: "audio/organism.mp3"
     },
             {
             name: "paralyze",
@@ -264,7 +264,7 @@ const words = [
             number: 677,
             origin: "어원: 그리스어 'paralysis' (마비)",
             synonym: "disable, immobilize, numb",
-            audio: "audio/Paralyze.mp3"
+            audio: "audio/paralyze.mp3"
         },
     {
         name: "physical",
@@ -272,7 +272,7 @@ const words = [
         number: 8,
         origin: "어원: 그리스어 'physis' (자연) + '-ical' (형용사 접미사)",
         synonym: "bodily, corporeal, somatic",
-        audio: "audio/Physical.mp3"
+        audio: "audio/physical.mp3"
     },
     {
         name: "physician",
@@ -280,7 +280,7 @@ const words = [
         number: 858,
         origin: "어원: 라틴어 'physica' (자연 과학)에서 유래",
         synonym: "doctor, medical practitioner",
-        audio: "audio/Physician.mp3"
+        audio: "audio/physician.mp3"
     },
      {
         name: "plague",
@@ -288,7 +288,7 @@ const words = [
         number: 445,
         origin: "어원: 라틴어 'plaga' (타격, 재앙)",
         synonym: "epidemic, affliction, pestilence",
-        audio: "audio/Plague.mp3"
+        audio: "audio/plague.mp3"
     },
     {
         name: "procedure",
@@ -296,7 +296,7 @@ const words = [
         number: 1128,
         origin: "어원: 라틴어 'procedere' (진행하다)",
         synonym: "operation, surgery, method",
-        audio: "audio/Procedure.mp3"
+        audio: "audio/procedure.mp3"
     },
     {
         name: "psychological",
@@ -304,7 +304,7 @@ const words = [
         number: 495,
         origin: "어원: 그리스어 'psyche' (정신) + '-logia' (학문)",
         synonym: "mental, cerebral, emotional",
-        audio: "audio/Psychological.mp3"
+        audio: "audio/psychological.mp3"
     },
     {
         name: "pupil",
